@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.timeline-view {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paragraph-title {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+  margin-top: 5px;
+}
